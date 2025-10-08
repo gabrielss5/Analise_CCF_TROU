@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # app_streamlit.py
-# Interface Streamlit para classificar TROU/DOUBLON usando o ccf_core.py
+# Interface Streamlit para classificar TROU usando o ccf_core.py
 
 import streamlit as st
 import pandas as pd
@@ -17,11 +17,11 @@ from ccf_core_app import long_to_wide_with_pack, classify_ccf
 
 st.set_page_config(page_title="Classificador CCF", page_icon="🔍", layout="wide")
 
-st.title("🔍 Classificador CCF – Análise de TROU e DOUBLON")
+st.title("🔍 Classificador CCF – Análise de TROU")
 
 st.markdown("""
 Esta ferramenta compara as **combinações do CCF** com a **tabela mestre de versões**
-e identifica se cada combinação representa um **TROU/DOUBLON verdadeiro ou falso**.
+e identifica se cada combinação representa um **TROU verdadeiro ou falso**.
 """)
 
 # === UPLOAD ===

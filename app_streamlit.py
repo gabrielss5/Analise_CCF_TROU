@@ -13,7 +13,7 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 from io import BytesIO
-from ccf_core import long_to_wide_with_pack, classify_ccf
+from ccf_core_app import long_to_wide_with_pack, classify_ccf
 
 st.set_page_config(page_title="Classificador CCF", page_icon="🔍", layout="wide")
 

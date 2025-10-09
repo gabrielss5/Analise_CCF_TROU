@@ -43,6 +43,7 @@ Arquivo .xlsx com as colunas:
 
 Essa tabela deve conter todas as versões válidas e seus atributos associados, incluindo os atributos de base (B0D, B0E, etc).
 
+
 📤 Saída
 
 O aplicativo gera um arquivo Excel com a classificação automática das combinações.
@@ -57,5 +58,7 @@ Exemplo:
 👤 Créditos
 
 Desenvolvido por Gabriel Silveira Silva
+
 Cargo: RCD
+
 💡 Projeto criado para otimizar e automatizar processos de análise de TROUS apontados no CCF e ICONE do projeto.

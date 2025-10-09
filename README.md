@@ -53,3 +53,9 @@ Exemplo:
 | Y4A01001  | NP001 | TROU   | [DDJ:04].[DEE:31]... | TROU Falso      | —                 |
 | Y4A01002  | NP002 | TROU   | [DDJ:04].[DEE:00]... | TROU Verdadeiro | 1PPA5D415GLA00C04 |
 
+
+👤 Créditos
+
+Desenvolvido por Gabriel Silveira Silva
+Cargo: RCD
+💡 Projeto criado para otimizar e automatizar processos de análise de TROUS apontados no CCF e ICONE do projeto.
